@@ -1,0 +1,14 @@
+{
+  "name": "期貨部位計算機",
+  "short_name": "期貨計算",
+  "description": "台灣期貨槓桿與口數計算工具",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1929",
+  "theme_color": "#0B1929",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
